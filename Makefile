@@ -15,6 +15,16 @@ include stuff.mk
 
 ##################################################################
 
+## Module notes
+## Experimenting with submodules -- but this means I will wind up with lots of copies of various directories. Do I want that right now?
+
+## git submodule add git@github.com:dushoff/Generation_distributions.git distributions
+## Seems to have added .gitmodules to commit automagically; watch this
+## Are there issues with using ssh? Very confusing.
+## git@github.com:dushoff/Generation_distributions.git seems neutral.
+
+##################################################################
+
 ## Content
 
 ######################################################################
